@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KernextPatches</key>
+	<dict>
+		<key>AppleRTC</key>
+		<false/>
+		<key>KernelPm</key>
+		<false/>
+		<key>KextsToPatch</key>
+		<array>
+			<dict>
+				<key>Comment</key>
+				<string>change 15 port limit to 21 in AppleUSBXHCIPCI for 9 series</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g710////EA==
+				</data>
+				<key>MatchOS</key>
+				<string>10.12.X</string>
+				<key>Name</key>
+				<string>AppleUSBXHCIPCI</string>
+				<key>Replace</key>
+				<data>
+				g710////FQ==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>change 15 port limit to 20 in AppleUSBXHCIPCI </string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				g32MEA==
+				</data>
+				<key>MatchOS</key>
+				<string>10.13.X</string>
+				<key>Name</key>
+				<string>AppleUSBXHCIPCI</string>
+				<key>Replace</key>
+				<data>
+				g32MGw==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>TRIM Enabler</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				QVBQTEUgU1NEAA==
+				</data>
+				<key>MatchOS</key>
+				<string>10.12.X-10.13.X</string>
+				<key>Name</key>
+				<string>IOAHCIBlockStorage</string>
+				<key>Replace</key>
+				<data>
+				AAAAAAAAAAAAAA==
+				</data>
+			</dict>
+		</array>
+	</dict>
+	<key>Preferences</key>
+	<dict>
+		<key>Debug</key>
+		<false/>
+		<key>KernelPatchesWholePrelinked</key>
+		<false/>
+		<key>Off</key>
+		<false/>
+		<key>SaveLogToFile</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
