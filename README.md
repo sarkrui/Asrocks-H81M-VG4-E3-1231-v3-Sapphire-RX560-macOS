@@ -83,12 +83,3 @@ Now that you have your own invalid serial number you need to replace the Board S
 4. **Save** config.plist
 5. **Restart** Hackintosh
 
-=======
-- [ ] Asrocks H81M-VG4 V2.0
-- [ ] E3 1231 V3
-- [ ] DDR3 1600 8G*2
-- [ ] Sapphire RX 460 4GB nitro 
-- [ ] 850 EVO 250G and 128G
-- [ ] BCM94331CD 
->>>>>>> cda58ec50d588e9e6b0319b630f8e7ab3a8a7dce
-
