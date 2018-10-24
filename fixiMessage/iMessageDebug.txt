@@ -1,0 +1,18 @@
+**********************iMessage Debug**********************
+Credits: ElNono, mdmwii,flux84, sugarface, pokenguyen
+
+
+              Model: MacBookPro11,1
+           Board-id: Mac-189A3D4F975D5FFC
+       SerialNumber: C02M6XSMFH00
+      Hardware UUID: F38563AC-ACBB-5814-8506-5AF83DE14E50
+
+          System-ID: 41649215-9EF2-1858-9F89-C6AA5BE73FF2
+                ROM: 0c4de956e746
+  BoardSerialNumber: C02406408BXFJYY1S
+
+         Gq3489ugfi: 078e8a6684413c55efbd711f3d313d053e
+          Fyp98tpgj: 8c1d95e9c7546fb06f9351b4edce1e192b
+         kbjfrfpoJU: 883f6c0d96771b088f6aeaa6e4a50e390f
+       oycqAZloTNDm: 0df5702492cddbdd7c83170fab21148eb1
+       abKPld1EcMni: f2c03591c2bad07fe29ecd5eaf5d1f8941
