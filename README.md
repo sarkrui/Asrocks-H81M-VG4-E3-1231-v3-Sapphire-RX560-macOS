@@ -1,7 +1,6 @@
 # Asrocks-H81M-VG4-E3-1231-v3-Sapphire-RX460-High-Sierra
 
-<<<<<<< HEAD
-![](http://ph3zijmo3.bkt.clouddn.com/share/hackintosh.jpeg)
+# ![](http://ph3zijmo3.bkt.clouddn.com/share/hackintosh.jpeg)
 
 ### Specs
 
